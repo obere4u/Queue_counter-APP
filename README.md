@@ -1,21 +1,42 @@
-# cMLr3asK
+# Queue Counter App
 
-Quick start:
+This is a simple Queue Counter App that allows you to keep track of the number of people in a queue. It provides functionality to increment the count and save the count to keep a record of previous entries.
 
-```
-$ npm install
-$ npm start
-````
+## Features
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+- **Increment Count**: Click the "INCREMENT" button to increase the count by one.
+- **Save Count**: Click the "SAVE" button to save the current count. The saved counts are displayed below.
+- **Previous Entries**: The app keeps track of the previous counts and displays them for reference.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## How to Use
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+1. Open the app in a web browser.
+2. The current count is displayed in large font.
+3. To increase the count, click the "INCREMENT" button.
+4. To save the current count, click the "SAVE" button.
+5. The saved counts will be displayed below the buttons.
 
-Happy Coding!
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Preview
+
+<img src="./queue-app.png">
+
+## Installation
+
+1. Clone the repository: `git clone <repository_url>`
+2. Open `index.html` in a web browser.
+
+## Credits
+
+This app was created by [Tochukwu Nwosa](https://www.linkedin.com/in/nwosa-tochukwu) as a demonstration of basic web development skills.
+
+## License
+
+Feel free to contribute and provide feedback to make this app even better!
+
+Enjoy tracking your queue with the Queue Counter App!
