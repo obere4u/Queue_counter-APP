@@ -36,8 +36,6 @@ This is a simple Queue Counter App that allows you to keep track of the number o
 
 This app was created by [Tochukwu Nwosa](https://www.linkedin.com/in/nwosa-tochukwu) as a demonstration of basic web development skills.
 
-## License
-
 Feel free to contribute and provide feedback to make this app even better!
 
 Enjoy tracking your queue with the Queue Counter App!
