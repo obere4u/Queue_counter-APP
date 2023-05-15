@@ -28,7 +28,11 @@ This is a simple Queue Counter App that allows you to keep track of the number o
 
 ## Installation
 
+<<<<<<< HEAD
 1.Clone the repository: `git clone `[Repo Link](https://github.com/obere4u/Queue_counter-APP)
+=======
+1. Clone the repository: `git clone https://github.com/obere4u/Queue_counter-APP`
+>>>>>>> 6df4c9ff9c8909433ed686ccc979eed656f88883
 2. Open `index.html` in a web browser.
 
 ## Credits
